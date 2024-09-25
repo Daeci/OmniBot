@@ -49,7 +49,7 @@ client.on(Events.InteractionCreate, async interaction => {
     }
 });
 
-client.once(Events.ClientRead, readyClient => {
+client.once(Events.ClientReady, readyClient => {
     console.log(`Ready! Logged in as ${readyClient.user.tag}`);
 });
 

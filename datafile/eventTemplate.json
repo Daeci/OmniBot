@@ -1,0 +1,20 @@
+{
+    "tournament": {
+        "color": "0xFF4500",
+        "title": "Tournament",
+        "imageURL": "",
+        "footer": "Loser is subject to a virtual Dunce Cap"
+    },
+    "movie": {
+        "color": "0x483D8B",
+        "title": "Movie Night",
+        "imageURL": "",
+        "footer": "Grab :popcorn: and a :tropical_drink:"
+    },
+    "irl": {
+        "color": "0x2E8B57",
+        "title": "IRL Event",
+        "imageURL": "",
+        "footer": "Time to touch some grass :herb:"
+    }
+}
